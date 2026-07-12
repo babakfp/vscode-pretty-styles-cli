@@ -8,6 +8,10 @@
     "scripts": {
         "format": "prettier -w ."
     },
+    "files": [
+        "README.md",
+        "main.ts"
+    ],
     "dependencies": {
         "tiny-jsonc": "1.0.2"
     },
