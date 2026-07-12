@@ -1,7 +1,7 @@
 {
     "name": "vscode-pretty-styles",
     "description": "Uses `editor.formatOnSave` for Workbench, and bring your own CSS to customize Workbench UI.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "license": "MIT",
     "repository": "github:babakfp/vscode-pretty-styles-cli",
     "bin": {
